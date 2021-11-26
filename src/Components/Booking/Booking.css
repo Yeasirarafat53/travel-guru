@@ -1,0 +1,31 @@
+.booking_details{
+    color: white;
+    padding-top:50px;
+    align-items: center;
+    
+}
+
+.bookingForm{
+    background-color:#fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 50px;
+    width: 60%;
+    
+    /* display: flex;
+    flex-direction: column;
+    justify-content:center; */
+}  
+
+form label{
+    color: darkgray;
+    font-weight: bold;
+}
+
+.form-row{
+    display: flex;
+}
+
+/* .col-md-7{
+    width: 400px;
+} */

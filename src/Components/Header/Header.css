@@ -1,0 +1,29 @@
+.navbar-brand img{
+    width: 120px;
+    height: 56px;
+    /* background-color: white; */
+    border-radius: 10px;
+}
+
+#searchBox{
+    width: 210px;
+    margin-right: 10px;
+}
+
+/* .navbar .navbar-nav .nav-item .nav-link {
+    color: #fff;
+} */
+.navbar .navbar-nav .nav-item .nav-link:link, .navbar .navbar-nav .nav-item .nav-link:visited  {
+    color: #fff;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover, .navbar .navbar-nav .nav-item .nav-link:active  {
+    /* border-bottom: 1px solid lightgrey; */
+    /* margin-right: 50px; */
+    color: lightcoral;
+}
+
+.nav-part{
+    margin-left: 280px;
+}

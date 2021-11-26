@@ -1,0 +1,31 @@
+
+[{
+    "id": 1,
+    "name": "Jerrilee Annies",
+    "phone": "(524) 9444388",
+    "email": "jannies0@amazon.co.uk",
+    "salary": 64,
+    "image": "https://randomuser.me/api/portraits/men/10.jpg"
+    
+  }, {
+    "id": 2,
+    "name": "Gunilla Laurenty",
+    "phone": "(777) 2630997",
+    "email": "glaurenty1@imgur.com",
+    "salary": 93,
+    "image": "https://randomuser.me/api/portraits/women/91.jpg"
+  }, {
+    "id": 3,
+    "name": "Staford Chivrall",
+    "phone": "(760) 8895537",
+    "email": "schivrall2@ehow.com",
+    "salary": 70,
+    "image": "https://randomuser.me/api/portraits/women/80.jpg"
+  }, {
+    "id": 4,
+    "name": "Schuyler Dodell",
+    "phone": "(420) 2290047",
+    "email": "sdodell3@theatlantic.com",
+    "salary": 92,
+    "image": "https://randomuser.me/api/portraits/men/32.jpg"
+  }]
